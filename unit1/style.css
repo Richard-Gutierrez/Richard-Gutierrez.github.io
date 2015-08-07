@@ -1,26 +1,77 @@
 header {
     margin: 35px;
     font-size: 40px;
-    font-family: Modern No. 20;
-  }
-body {
-    font-size: 20px;
     text-align: center;
-    font-family: Modern No. 20;
+    font-family: 'Cinzel', serif;
+    font-family: 'Julius Sans One', sans-serif;
+    color: rgba(0,0,0,1);
+    @media (max-width: 500px){
+      font-size: 50px;
+      margin-top: 20px;
+      line-height: 40px;
+    }
   }
-img {
+body{
+
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    list-style-type: none;
+    background: linear-gradient(bottom, rgba(0,0,0,1), transparent 55%);
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), transparent 55%);
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,1), transparent 55%);
+    color: rgba(225,225,225,1);
+    margin-bottom: 125px;
+}
+img{
     max-width: 1350px;
-    margin: .5px 0px 0px 0px;
+    margin: .5px 0px .5px 0px;
   }
+.script {
+    position: relative;
+    left: 20px;
+
+  }
+
+.first {
+  font-size: 25px;
+  font-family: 'Cinzel', serif;
+  left: 30px;
+}
+.moving_right {
+  float: right;
+  margin-left: 20px;
+}
+
 h1 {
-   font-size: 35px;
-   font-weight: normal;
+   text-align: center;
+   font-size: 60px;
+   font-weight: black;
+   font-width: black;
+   font-family: Apple Symbols;
   }
-p, ul {
-    text-align: center;
-    font-size: 20px;
+
+p {
+
+  margin-left: 0px;
+  margin-right: 50px;
+}
+ul {
+  color: #0277bd ;
+  list-style-type: none;
+  margin-left: 30px;
+  margin-right: 100px;
   }
+
+h2 {
+
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+
+
 #slogan {
+    font-size: 30px;
+    text-align: center;
     font-style: italic;
     font-family: Chaparral Pro Light;
   }
