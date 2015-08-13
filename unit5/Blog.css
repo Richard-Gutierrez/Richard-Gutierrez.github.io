@@ -1,0 +1,42 @@
+h1 {
+  border-color: gray;
+  border-style: double;
+  padding: 30px 20px;
+}
+span {
+  font-size: 22px;
+  margin-left: 500px;
+}
+body {
+  background: #e0f2f1;
+  padding-bottom: 40px;
+
+}
+
+article  {
+  border-color: gray;
+  border-style: double;
+  padding: 30px 20px;
+
+
+}
+div {
+  border-color: gray;
+  border-style: double;
+  padding: 30px 20px;
+}
+
+#wrapper {
+  background-color: #660033;
+  width: 960px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+footer {
+  border-color: gray;
+  border-style: double;
+  padding: 30px 20px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
