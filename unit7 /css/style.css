@@ -1,0 +1,109 @@
+header {
+
+
+    margin: 35px 0px 35px 0px;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: black;
+}
+
+.hamburger {
+  float: left;
+  border-width-left: 20px;
+  padding-right: 4px;
+
+  margin: 15px 30px 35px 70px;
+}
+
+.cart {
+  float: right;
+
+
+}
+
+
+
+body{
+
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    list-style-type: none;
+    background: linear-gradient(bottom, rgba(0,0,0,1), transparent 55%);
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0, 1), transparent 55%);
+    background: -moz-linear-gradient(bottom, rgba(0, 0, 0, 1), transparent 55%);
+    color: rgba(225,225,225,1);
+
+    @media (max-width: 800px){
+        font-size: 50px;
+        margin-top: 20px;
+        line-height: 40px;
+    }
+
+}
+
+img {
+
+    margin-left: 0%;
+    max-width: 440px;
+    max-height: 428px;
+}
+
+#slogan {
+
+    font-size: 25px;
+    color: black;
+    margin-left: 120px;
+    font-style: italic;
+    font-family: Chaparral Pro Light;
+  }
+
+.script {
+    position: relative;
+    left: 20px;
+
+  }
+
+.first {
+  font-size: 25px;
+  font-family: 'Cinzel', serif;
+  left: 30px;
+}
+.moving_right {
+  float: right;
+  margin-left: 20px;
+}
+
+h1 {
+
+   text-align: center;
+   font-size: 60px;
+   color: black;
+   font-weight: black;
+   font-width: black;
+   font-family: Apple Symbols;
+
+}
+
+p {
+
+  margin-left: 0px;
+  margin-right: 50px;
+}
+
+ul {
+  color: #0277bd ;
+  list-style-type: none;
+  margin-left: 30px;
+  margin-right: 100px;
+
+}
+
+h2 {
+
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+
+
+
