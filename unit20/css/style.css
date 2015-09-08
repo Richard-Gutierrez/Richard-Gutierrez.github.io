@@ -1,0 +1,161 @@
+
+header {
+
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+
+}
+
+
+#hamburger {
+
+  float: left;
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+
+#name {
+
+  font-size: 20px;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  color: white;
+}
+
+
+#cart {
+
+  float: right;
+  margin-right: 120px;
+  margin-top: -61px;
+}
+
+
+div {
+
+  background: url('http://www.selfedge.com/image/cache/catalog/jeans-2800x878.jpg');
+  background-size: 100%;
+  background-size-bottom: 100%;
+  background-repeat: no-repeat;
+}
+
+ul {
+
+  font-size: 40px;
+  padding-top: 172px;
+  padding-bottom: 40px;
+  text-align: center;
+  color: white;
+}
+
+li {
+
+  display: inline-block;
+  /*text-decoration: underline;*/
+  padding: 90px;
+  color: white;
+}
+
+body {
+
+  margin-top: 30px;
+
+}
+
+img {
+
+ padding-left: 55px;
+
+}
+
+.footer {
+
+  margin-top: 20px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
+
+
+
+
+
+@media (max-width: 1238px) {
+
+  header {
+
+     padding-top: 13.33px;
+     font-size: 30px;
+  }
+
+      ul {
+          font-size: 26.66px;
+          padding-top: 114.66px;
+          padding-bottom: 26.66px;
+
+          }
+
+      li {
+             display: inline-block;
+             padding: 60px;
+
+          }
+}
+
+@media (max-width: 955px) {
+
+  img {
+
+    max-width: 900px;
+  }
+}
+
+@media (max-width: 860px) {
+
+  header {
+
+    padding-top: 13.33px;
+    font-size: 25px;
+  }
+
+      ul {
+
+          font-size: 13.33px;
+          padding-top: 57.33px;
+          padding-bottom: 13.33px;
+
+          }
+
+     li {
+          display: inline-block;
+          padding: 30px;
+
+         }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
