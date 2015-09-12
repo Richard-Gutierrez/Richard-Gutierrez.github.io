@@ -1,0 +1,175 @@
+
+
+
+header {
+
+    padding: 25px 0px 25px 0px;
+    font-size: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+    color: black;
+
+}
+
+div {
+
+  background: url('http://www.selfedge.com/image/cache/catalog/jeans-2800x878.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-size: 40px;
+  text-align: center;
+  display: block;
+  padding: 220px 0px 220px 0px;
+  /*text-decoration: underline;*/
+  color: white;
+}
+
+  h2 {
+
+    display: inline;
+    padding: 95px;
+  }
+
+ ul {
+
+  display: inline;
+  display: center;
+
+ }
+
+ li {
+  display: center;
+  display: inline;
+  padding: 110px;
+
+}
+
+img {
+
+ padding-bottom: .3em;
+ padding-left: 55px;
+
+}
+
+footer {
+
+  margin-top: 20px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 20px;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+  header {
+
+    padding: 25px 0px 25px 0px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: black;
+
+  }
+
+  div {
+
+    background: url('http://www.selfedge.com/image/cache/catalog/jeans-2800x878.jpg');
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    color: white;
+  }
+
+
+
+  img  {
+
+    width: 374px;
+    padding-top: 0%;
+    margin-top: 0%;
+    padding-left: 0%;
+  }
+
+  footer {
+
+    margin-top: 20px;
+    font-size: 2px;
+    padding: 25px;
+    text-align: center;
+    list-style-type: none;
+
+    }
+
+  }
+
+
+
+@media only screen and (max-width: 400px) {
+
+    header {
+
+      padding: 25px 0px 25px 0px;
+      font-size: 20px;
+      text-align: center;
+      font-family: 'Cinzel', serif;
+      color: black;
+    }
+
+    div {
+
+      background: url('https://difskfxg0c1dq.cloudfront.net/single_regular_jean/buck-mason_denim_standard_750_3.jpg');
+      background-size: 100%;
+      background-repeat: no-repeat;
+      font-size: 44px;
+      text-align: center;
+      display: block;
+      color: rgb( 195, 195, 195);
+      padding-bottom: 150px;
+
+    }
+
+    img {
+
+      width: 385;
+      padding-left: 0%;
+
+    }
+
+    footer {
+
+      margin-top: 20px;
+      font-size: 13px;
+      padding: 25px;
+      text-align: center;
+      list-style-type: block;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
